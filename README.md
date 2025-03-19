@@ -16,8 +16,6 @@ Navegação intuitiva, visando melhor experiência do usuário;
 Implementação de boas práticas de desenvolvimento web.
 O resultado final é um dashboard funcional e moderno, que pode ser aplicado em diferentes contextos, como sistemas administrativos, plataformas de análise de dados e gerenciamento de informações.
 
-#Imagens do Projeto:
-
 # Desktop:
 
 ![desktop](https://github.com/user-attachments/assets/4c11347a-dddb-4b3a-938a-5d174007b87b)
